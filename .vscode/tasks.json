@@ -7,6 +7,11 @@
             "label": "System Development",
             "type": "shell",
             "command": "python try_assistantagent.py",
+        },
+        {
+            "label": "Create Report",
+            "type": "shell",
+            "command": "python try_createreport.py",
         }
     ]
 }
